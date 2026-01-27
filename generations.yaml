@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/KTM_390_Duke"
+
 generations:
   - name: "First Generation"
     start_year: 2014
